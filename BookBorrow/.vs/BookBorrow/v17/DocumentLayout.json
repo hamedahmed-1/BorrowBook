@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UIS\\Desktop\\BorrowBook\\BookBorrow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C4BF9B-B124-4C23-A3A2-889AAB858537}|BookBorrow\\BookBorrow.csproj|c:\\users\\uis\\desktop\\borrowbook\\bookborrow\\bookborrow\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5C4BF9B-B124-4C23-A3A2-889AAB858537}|BookBorrow\\BookBorrow.csproj|solutionrelative:bookborrow\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C4BF9B-B124-4C23-A3A2-889AAB858537}|BookBorrow\\BookBorrow.csproj|c:\\users\\uis\\desktop\\borrowbook\\bookborrow\\bookborrow\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C4BF9B-B124-4C23-A3A2-889AAB858537}|BookBorrow\\BookBorrow.csproj|solutionrelative:bookborrow\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C4BF9B-B124-4C23-A3A2-889AAB858537}|BookBorrow\\BookBorrow.csproj|c:\\users\\uis\\desktop\\borrowbook\\bookborrow\\bookborrow\\views\\books\\clientpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5C4BF9B-B124-4C23-A3A2-889AAB858537}|BookBorrow\\BookBorrow.csproj|solutionrelative:bookborrow\\views\\books\\clientpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C4BF9B-B124-4C23-A3A2-889AAB858537}|BookBorrow\\BookBorrow.csproj|c:\\users\\uis\\desktop\\borrowbook\\bookborrow\\bookborrow\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C4BF9B-B124-4C23-A3A2-889AAB858537}|BookBorrow\\BookBorrow.csproj|solutionrelative:bookborrow\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C4BF9B-B124-4C23-A3A2-889AAB858537}|BookBorrow\\BookBorrow.csproj|c:\\users\\uis\\desktop\\borrowbook\\bookborrow\\bookborrow\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C4BF9B-B124-4C23-A3A2-889AAB858537}|BookBorrow\\BookBorrow.csproj|solutionrelative:bookborrow\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C4BF9B-B124-4C23-A3A2-889AAB858537}|BookBorrow\\BookBorrow.csproj|c:\\users\\uis\\desktop\\borrowbook\\bookborrow\\bookborrow\\models\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C4BF9B-B124-4C23-A3A2-889AAB858537}|BookBorrow\\BookBorrow.csproj|solutionrelative:bookborrow\\models\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C4BF9B-B124-4C23-A3A2-889AAB858537}|BookBorrow\\BookBorrow.csproj|c:\\users\\uis\\desktop\\borrowbook\\bookborrow\\bookborrow\\data\\bookborrowcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C4BF9B-B124-4C23-A3A2-889AAB858537}|BookBorrow\\BookBorrow.csproj|solutionrelative:bookborrow\\data\\bookborrowcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C4BF9B-B124-4C23-A3A2-889AAB858537}|BookBorrow\\BookBorrow.csproj|c:\\users\\uis\\desktop\\borrowbook\\bookborrow\\bookborrow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C4BF9B-B124-4C23-A3A2-889AAB858537}|BookBorrow\\BookBorrow.csproj|solutionrelative:bookborrow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C4BF9B-B124-4C23-A3A2-889AAB858537}|BookBorrow\\BookBorrow.csproj|c:\\users\\uis\\desktop\\borrowbook\\bookborrow\\bookborrow\\models\\borrowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C4BF9B-B124-4C23-A3A2-889AAB858537}|BookBorrow\\BookBorrow.csproj|solutionrelative:bookborrow\\models\\borrowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C4BF9B-B124-4C23-A3A2-889AAB858537}|BookBorrow\\BookBorrow.csproj|c:\\users\\uis\\desktop\\borrowbook\\bookborrow\\bookborrow\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5C4BF9B-B124-4C23-A3A2-889AAB858537}|BookBorrow\\BookBorrow.csproj|solutionrelative:bookborrow\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\BorrowBook\\BookBorrow\\BookBorrow\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BookBorrow\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\UIS\\Desktop\\BorrowBook\\BookBorrow\\BookBorrow\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BookBorrow\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T07:10:39.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BorrowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\BorrowBook\\BookBorrow\\BookBorrow\\Models\\BorrowViewModel.cs",
+              "RelativeDocumentMoniker": "BookBorrow\\Models\\BorrowViewModel.cs",
+              "ToolTip": "C:\\Users\\UIS\\Desktop\\BorrowBook\\BookBorrow\\BookBorrow\\Models\\BorrowViewModel.cs",
+              "RelativeToolTip": "BookBorrow\\Models\\BorrowViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T19:44:18.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\BorrowBook\\BookBorrow\\BookBorrow\\Views\\Books\\ClientPage.cshtml",
+              "RelativeDocumentMoniker": "BookBorrow\\Views\\Books\\ClientPage.cshtml",
+              "ToolTip": "C:\\Users\\UIS\\Desktop\\BorrowBook\\BookBorrow\\BookBorrow\\Views\\Books\\ClientPage.cshtml",
+              "RelativeToolTip": "BookBorrow\\Views\\Books\\ClientPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T19:40:00.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\BorrowBook\\BookBorrow\\BookBorrow\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookBorrow\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\UIS\\Desktop\\BorrowBook\\BookBorrow\\BookBorrow\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "BookBorrow\\Views\\Books\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T15:44:09.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\BorrowBook\\BookBorrow\\BookBorrow\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookBorrow\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\UIS\\Desktop\\BorrowBook\\BookBorrow\\BookBorrow\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookBorrow\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:01:54.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\BorrowBook\\BookBorrow\\BookBorrow\\Program.cs",
+              "RelativeDocumentMoniker": "BookBorrow\\Program.cs",
+              "ToolTip": "C:\\Users\\UIS\\Desktop\\BorrowBook\\BookBorrow\\BookBorrow\\Program.cs",
+              "RelativeToolTip": "BookBorrow\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:27:03.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookBorrowContext.cs",
+              "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\BorrowBook\\BookBorrow\\BookBorrow\\Data\\BookBorrowContext.cs",
+              "RelativeDocumentMoniker": "BookBorrow\\Data\\BookBorrowContext.cs",
+              "ToolTip": "C:\\Users\\UIS\\Desktop\\BorrowBook\\BookBorrow\\BookBorrow\\Data\\BookBorrowContext.cs",
+              "RelativeToolTip": "BookBorrow\\Data\\BookBorrowContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:22:06.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BorrowRecord.cs",
+              "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\BorrowBook\\BookBorrow\\BookBorrow\\Models\\BorrowRecord.cs",
+              "RelativeDocumentMoniker": "BookBorrow\\Models\\BorrowRecord.cs",
+              "ToolTip": "C:\\Users\\UIS\\Desktop\\BorrowBook\\BookBorrow\\BookBorrow\\Models\\BorrowRecord.cs",
+              "RelativeToolTip": "BookBorrow\\Models\\BorrowRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:14:04.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\BorrowBook\\BookBorrow\\BookBorrow\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "BookBorrow\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\UIS\\Desktop\\BorrowBook\\BookBorrow\\BookBorrow\\Models\\Client.cs",
+              "RelativeToolTip": "BookBorrow\\Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:11:22.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\BorrowBook\\BookBorrow\\BookBorrow\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookBorrow\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\UIS\\Desktop\\BorrowBook\\BookBorrow\\BookBorrow\\Models\\Book.cs",
+              "RelativeToolTip": "BookBorrow\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:09:03.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

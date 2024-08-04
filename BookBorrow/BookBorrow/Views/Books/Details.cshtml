@@ -1,0 +1,35 @@
+﻿@model BookBorrow.Models.Book
+
+<h1>Book Details</h1>
+
+<div>
+    <h4>Book Information</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Book Name
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.BookName)
+        </dd>
+        <dt class="col-sm-2">
+            Number of Copies
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NumberOfCopies)
+        </dd>
+        <dt class="col-sm-2">
+            Book Image
+        </dt>
+        <dd class="col-sm-10">
+            @if (!string.IsNullOrEmpty(Model.BookImageUrl))
+            {
+                <img src="@Model.BookImageUrl" alt="Book Image" style="width: 100px; height: auto;" />
+            }
+        </dd>
+    </dl>
+    <p>
+        <a asp-action="Edit" asp-route-id="@Model.BookId" class="btn btn-warning">Edit</a>
+        <a asp-action="Index" class="btn btn-primary">Back to List</a>
+    </p>
+</div>

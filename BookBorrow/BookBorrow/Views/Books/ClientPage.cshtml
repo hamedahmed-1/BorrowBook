@@ -1,0 +1,25 @@
+﻿@using BookBorrow.Models
+@model BorrowViewModel
+
+@{
+    ViewData["Title"] = "Borrow Book";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="SubmitBorrow" method="post">
+    <input type="hidden" name="BookId" value="@Model.Book.BookId" />
+
+    <div class="mb-3">
+        <label for="client" class="form-label">Select Client</label>
+        <select id="client" name="SelectedClientId" class="form-select" required>
+            <option value="">-- Select a Client --</option>
+            @foreach (var client in Model.Clients)
+            {
+                <option value="@client.ClientId">@client.ClientName</option>
+            }
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit Borrow</button>
+</form>

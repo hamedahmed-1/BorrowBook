@@ -1,0 +1,41 @@
+﻿@model BookBorrow.Models.Book
+
+<h1>Add New Book</h1>
+
+<div>
+    <h4>Add Book</h4>
+    <hr />
+    <form asp-action="Create">
+        <div class="form-group row">
+            <label asp-for="BookName" class="col-sm-2 col-form-label">Book Name</label>
+            <div class="col-sm-10">
+                <input asp-for="BookName" class="form-control" />
+                <span asp-validation-for="BookName" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group row">
+            <label asp-for="BookImageUrl" class="col-sm-2 col-form-label">Book Image URL</label>
+            <div class="col-sm-10">
+                <input asp-for="BookImageUrl" class="form-control" />
+                <span asp-validation-for="BookImageUrl" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group row">
+            <label asp-for="NumberOfCopies" class="col-sm-2 col-form-label">Number of Copies</label>
+            <div class="col-sm-10">
+                <input asp-for="NumberOfCopies" class="form-control" />
+                <span asp-validation-for="NumberOfCopies" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <button type="submit" class="btn btn-primary">Add Book</button>
+            <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
